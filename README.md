@@ -8,5 +8,5 @@ With that data able to calculate:
       * Correlation Coefficient 
       * R-Squared Value
       * Line of best fit equation
-      * creates a visual table of the data
+      * Creates a visual table of the data
       * Displays the strength of the correlation
