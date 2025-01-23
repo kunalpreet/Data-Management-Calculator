@@ -10,3 +10,5 @@ With that data able to calculate:
       * Line of best fit equation
       * Creates a visual table of the data
       * Displays the strength of the correlation
+
+![Example](https://github.com/kunalpreet/Data-Management-Calculator/blob/master/DMCal.png)
